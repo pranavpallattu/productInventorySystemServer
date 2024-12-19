@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Shirt",
+      "category": "Clothes",
+      "price": "1999",
+      "stock": "33",
+      "description": "Branded Shirts",
+      "id": 4
+    },
+    {
+      "name": "Wooden Dining Set",
+      "category": "Furniture",
+      "price": "3000",
+      "stock": "19",
+      "description": "Table with four chairs.",
+      "id": 5
+    },
+    {
+      "name": "Allen Solly Shirt",
+      "category": "Clothes",
+      "price": "1400",
+      "stock": "14",
+      "description": "Branded Shirts Men",
+      "id": 6
+    },
+    {
+      "name": "Samsung S24",
+      "category": "Electronics",
+      "price": "66000",
+      "stock": "44",
+      "description": "Brand New",
+      "id": 7
+    },
+    {
+      "name": "Boat Headphones",
+      "category": "Electronics",
+      "price": "1200",
+      "stock": "90",
+      "description": "1 year warranty",
+      "id": 8
+    },
+    {
+      "name": "Window Frames",
+      "category": "Furniture",
+      "price": "3200",
+      "stock": "7",
+      "description": "Durable ",
+      "id": 9
+    }
+  ]
+}
